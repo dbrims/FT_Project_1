@@ -1,7 +1,7 @@
 # FT_Project_1
 
 #Title
-"effect of covid 19 incidence rate on global economic parameters"
+### "effect of covid 19 incidence rate on global economic parameters"
 
 We will correlate covid incidence and lockdown times to various economic parameters.
 
