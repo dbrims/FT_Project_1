@@ -1,0 +1,7 @@
+# OECD Data and COVID connection
+
+1. AI from OECD site- bring HE, doctors per 1000, nurses per 1000, etc.
+2. AI from corona deaths from each country
+3. combine these two datasets
+4. Quarter chart graph. Vertical line average HE, horizantal line survival rates
+5. Scatter Graph 
